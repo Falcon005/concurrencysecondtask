@@ -1,0 +1,12 @@
+2022-05-19 17:15:47 [Thread-6] INFO  cyclicbarrier.car.Car - The carN5 is in a ferry
+2022-05-19 17:15:47 [Thread-7] INFO  cyclicbarrier.car.Car - The carN6 is in a ferry
+2022-05-19 17:15:48 [Thread-8] INFO  cyclicbarrier.car.Car - The carN7 is in a ferry
+2022-05-19 17:15:48 [Thread-9] INFO  cyclicbarrier.car.Car - The carN8 is in a ferry
+2022-05-19 17:15:49 [Thread-10] INFO  cyclicbarrier.car.Car - The carN9 is in a ferry
+2022-05-19 17:15:49 [Thread-10] INFO  cyclicbarrier.transportation.TransportationTime - The Ferry is ferrying the cars to the other island
+2022-05-19 17:15:49 [Thread-10] INFO  cyclicbarrier.transportation.TransportationTime - The ferry is arrived in island with vehicles!
+2022-05-19 17:15:49 [Thread-10] INFO  cyclicbarrier.car.Car - The carN9 is arrived the island and left the ferry!
+2022-05-19 17:15:49 [Thread-6] INFO  cyclicbarrier.car.Car - The carN5 is arrived the island and left the ferry!
+2022-05-19 17:15:49 [Thread-9] INFO  cyclicbarrier.car.Car - The carN8 is arrived the island and left the ferry!
+2022-05-19 17:15:49 [Thread-8] INFO  cyclicbarrier.car.Car - The carN7 is arrived the island and left the ferry!
+2022-05-19 17:15:49 [Thread-7] INFO  cyclicbarrier.car.Car - The carN6 is arrived the island and left the ferry!
